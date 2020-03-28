@@ -1,0 +1,33 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url(shows.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Limelight', cursive;
+  color:white;
+  font-size: 25px;
+}
+h1{
+  font-family: 'Limelight', cursive;
+  text-align: center;
+  font-size: 55px;
+  color:black;
+
+}
+.page-header{
+  margin-top: -1%;
+
+}
+
+h2{
+  font-family: 'Limelight', cursive;
+    font-size: 25px;
+
+}
+h3{
+  font-family: 'Limelight', cursive;
+    font-size: 35px;
+    border-bottom: 3px solid white;
+
+}
